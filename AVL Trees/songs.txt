@@ -1,0 +1,13 @@
+Bir Derdim Var;Mor ve Ötesi;1001;Rock;2014
+Hep de yorgun;Yaşlı Amca;1002;Slow;2022
+Dip;Madrigal;1003;Pop;2021
+Dursun Zaman;Manga;1004;Rock;2009
+Aya Benzer;Mustafa Sandal;1005;Pop;2014
+Ölümle Yaşam Arasında;Mavi Gri;1006;Pop;2022
+Altüst olmuşum;Mavi Gri;1007;Pop;2020
+Dünyadan Uzak;Pinhani;1008;Pop;2021
+Yapma N'olursun;Dolu Kadehi Ters Tut;1009;Pop;2021
+Yaramızda Kalsın;Onurcan Özcan;1010;Slow;2017
+Gamzedeyim Deva Bulmam;Gaye Su Akyol;1011;Slow;2020
+Mesafe;Serdar Ortaç;1012;Slow;2014
+Kırık Kalpler Durağında;Candan Erçetin;1013;Slow;2013
